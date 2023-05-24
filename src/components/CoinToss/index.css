@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.button {
+  background-color: #f9d423;
+  color: #a35200;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.image {
+  height: 140px;
+  width: 140px;
+}
+.divContainer {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardContainer {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+}
+.p {
+  margin-left: 20px;
+}
